@@ -117,6 +117,8 @@ def main():
         else:
             print("Invalid choice. Please try again.")
 
+            print("Thishakya Kumarathunga")
+
 #calling the main function
 if __name__ == "__main__":
     main()
